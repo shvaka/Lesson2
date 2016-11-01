@@ -4,6 +4,7 @@ body {
   background: #2E335F;
 }
 
+
 .container {
   margin: 100px auto;
   width: 640px;
@@ -14,10 +15,14 @@ body {
   margin: 0 auto;
 }
 
+
 .cal {
   display: block;
   width: 245px;
   background:#D6D1D1;
+ border-style: hidden;
+ padding: 15px;
+ background-color: #D6D1D1;
 }
 
 .cal a {

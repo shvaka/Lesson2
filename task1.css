@@ -1,0 +1,38 @@
+
+body {
+	background: #5291F9;
+}
+.form4 {
+	width: 300px;
+	margin: 60px auto 30px;
+	padding: 10px;
+	position: relative;
+	font-family: Arial;
+	color: grey;
+	text-align: center;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+.form4 h1{
+	font-size: 22px;
+	text-align: center;
+}
+.form4 input[type=text],
+.form4 input[type=password] {
+	width: 92%;
+	padding: 8px;
+	margin-bottom: 0px;
+	border: 1px solid #D9D2D2;
+	text-align: center;
+	background:#EFECEC;
+	font-size: 13px;
+	border-radius: 3px;
+}
+.form4 input[type=submit] {
+	width: 98%;
+	padding: 8px 5px;
+	background: #5291F9;
+	border: 1px solid #2873EE;
+	color: #FFFFFF;
+	border-radius: 3px;
+}
